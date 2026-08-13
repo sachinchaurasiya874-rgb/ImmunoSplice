@@ -1,3 +1,5 @@
 hisat2
 samtools
 sra-toolkit
+zlib1g-dev
+libjpeg-dev
