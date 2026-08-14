@@ -67,4 +67,4 @@ if run_button:
     except Exception as e:
         st.error(f"An error occurred: {e}")
 else:
-    st.info("👈 Enter patient details in the sidebar and click 'Run Pipeline' to begin.")
+    st.info("👈 Enter dataset ID in the sidebar and click 'Run Pipeline' to begin.")
